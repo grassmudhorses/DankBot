@@ -10,7 +10,7 @@ namespace DankBot_1
     {
         static void Main(string[] args)
         {
-            //let's gooooooo
+            //learning github
         }
     }
 }
